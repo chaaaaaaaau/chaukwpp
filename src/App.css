@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+div {
+  width: 90%;
+  margin: auto;
+}
+
+@media only screen and (max-width: 800px) {
+  div {
+    width: 95%;
+  }
+}
